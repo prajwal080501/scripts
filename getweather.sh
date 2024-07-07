@@ -1,3 +1,4 @@
+#!/bin/bash #shebang
 echo "Script to get weather"
 echo "Enter city  you want to get weathe for"
 read city
