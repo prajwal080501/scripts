@@ -1,0 +1,7 @@
+apple.com
+google.com
+facebook.com
+youtube.com
+samsung.com
+prajwalladkat.vercel.app
+prajwal.zapto.org
